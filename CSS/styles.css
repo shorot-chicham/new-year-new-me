@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.space{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+header{
+    background-image: url("/images/banner/banner3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 600px;
+}
+.banner-container{
+    text-align: right;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: aliceblue;
+}
