@@ -13,7 +13,7 @@
 /* banner container styles is start from here  */
 
 header{
-    background-image: url("/images/banner/banner3.png");
+    background-image: url(/images/banner/banner3.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -98,7 +98,7 @@ header{
 /* mindset container styles start from here  */
 
 .mindset-container{
-    background-image: url("/images/watch.png");
+    background-image: url(/images/watch.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
     margin-bottom: 100px;
@@ -106,7 +106,7 @@ header{
 
 .mindset-info{
     padding: 55px;
-    background-image: url('/images/gradient1.png');
+    background-image: url(/images/gradient1.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
     color: whitesmoke;
