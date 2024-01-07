@@ -94,3 +94,20 @@ header{
     align-items: center;
     gap: 30px;
 }
+
+/* mindset container styles start from here  */
+
+.mindset-container{
+    background-image: url("/images/watch.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    margin-bottom: 100px;
+}
+
+.mindset-info{
+    padding: 55px;
+    background-image: url('/images/gradient1.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    color: whitesmoke;
+}
